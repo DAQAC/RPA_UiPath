@@ -1,0 +1,10 @@
+{
+	"filepath":"C:\\Users\\User\\Desktop\\emailtemplate.txt",
+	"address":"chris.lucas@qa.com",
+	"subject":"CONGRATULATIONS YOU'VE WON!!!!!!",
+	"dear":"Amazing Winner",
+	"winnings":"5,000,000",
+	"fee":"250",
+	"accountnumber":"0987654332",
+	"drawdate":"2020-06-04, 10:43:00"
+}
