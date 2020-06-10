@@ -1,0 +1,12 @@
+Dear {0}
+
+you've won {1}
+
+Enter Deposit {2} into account number {3} 
+
+date: {4}
+
+p.s Pls Enjoy {5}
+
+Regards, 
+Me. 
